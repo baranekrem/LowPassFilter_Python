@@ -8,11 +8,11 @@ As you can see, we designed Passive RC Low Pass Filter.
 This algorithm comes from Bilinear Z Transform form Analog Filter.
 I explaned math analysis in my web site. If you want see, you can visit my web site
 
-https://www.baranekrem.net
-
 ## Authors
 
-* **BARAN EKREM** - [Baran Ekrem](https://www.baranekrem.net)
+* **BARAN EKREM**
+- WebSite	: [My Blog](https://www.baranekrem.net)
+- E-Mail 	: baranekrem@outlook.com
 
 ## License
 
