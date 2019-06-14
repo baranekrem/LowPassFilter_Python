@@ -4,7 +4,7 @@ Low Pass Filter Test Program with FFT
 
 ## Getting Started
 
-As you can see, We designed Passive RC Low Pass Filter.
+As you can see, we designed Passive RC Low Pass Filter.
 This algorithm comes from Bilinear Z Transform form Analog Filter.
 I explaned math analysis in my web site. If you want see, you can visit my web site
 
