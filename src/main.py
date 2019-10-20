@@ -21,12 +21,12 @@ class LowPassFilter(object):
         self.__T = period
         self.__x = x
         self.__y = [0] * len(x)
-
-    def FilterApply(self):
+        
         self.__K1 = (self.__T / (self.__T + 2 * self.__R * self.__C))
         self.__K2 = (self.__T / (self.__T + 2 * self.__R * self.__C))
         self.__K3 = ((self.__T - 2 * self.__R * self.__C) / (self.__T + 2 * self.__R * self.__C))
 
+    def FilterApply(self):
         for i in range(len(self.__x)):
             self.__y[i] = (self.__x[i] * self.__K1) + (self.__x[i - 1] * self.__K2) - (self.__y[i - 1] * self.__K3)
         return (self.__y)
