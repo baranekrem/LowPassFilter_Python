@@ -10,7 +10,7 @@ I explaned math analysis in my web site. If you want see, you can visit my web s
 
 ## Authors
 
-* **BARAN EKREM** - https://www.baranekrem.net - baranekrem@outlook.com
+* **BARAN EKREM** - https://www.baranekrem.com - baranekrem@outlook.com
 
 ## License
 
